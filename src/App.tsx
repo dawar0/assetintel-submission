@@ -7,7 +7,7 @@ export default function App() {
     <div className="container h-svh">
       <Header />
       <div className="grid grid-cols-5 gap-4">
-        <div className="lg:col-span-4 lg:order-first order-last col-span-5 h-96 lg:h-auto">
+        <div className="lg:col-span-4 lg:order-first order-last col-span-5 h-96 lg:h-auto pb-8">
           <Editor />
         </div>
         <div className="lg:col-span-1 col-span-5">
